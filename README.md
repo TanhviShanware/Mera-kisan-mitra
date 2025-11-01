@@ -4,6 +4,7 @@
 ## AI Wheat Diesase Detector [Recognition of Wheat Plant Diseases by Leaf Image Classification]
 
 ### <a href="" target="_blank"></a>
+### <a href="https://wheat-frontend-1t3t.vercel.app/" target="_blank">https://wheat-frontend-1t3t.vercel.app//</a>
 
 
 
